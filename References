@@ -8,10 +8,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-    <script src="//code.jquery.com/jquery.min.js"></script> 
+    <script src="//code.jquery.com/jquery.min.js"></script>
     <title>Assignment 2: IT World</title>
 </head>
-<body>                      
+<body>
     <div class="nav" id="nav-holder"></div>
     <script>
         $.get("Nav.html", function(data){
@@ -22,33 +22,136 @@
         <h1>
             REFERENCES
         </h1>
-
         <h2>
-            123
+          Hoang Son Vu
         </h2>
-            456
+        <h3>
+          CLOUD COMPUTING
+        </h3>
         <p>
+          One of the most popular terms in the IT industry currently is cloud computing. Customers' needs for computer resources including services, apps, networks, storage, and servers are covered by cloud providers such as Google, Microsoft and Amazon and they allow you to lease rather than buy these resources. Although there are several benefits to employing a cloud-based system, some difficulties must be addressed before businesses and people can trust their systems to be deployed on the cloud. This essay identifies the current status of this new technology as well as focuses on their development trends in the future.
+Cloud computing is the distribution of computer services via the Internet (the Cloud) in order to provide rapid innovation, more flexible resources, and economies of scale (Vennam, 2020). You only have to pay for the cloud services you use, which helps you cut expenses, manage your infrastructure more effectively, and scale as your business grows. A central server controls communication between the front and back ends (Chai, n.d.). Protocols are used by the central server to simplify data sharing. To handle communication between multiple client devices and cloud servers, the central server employs both software and middleware (Chai, n.d.). The demand for cloud computing has sharply grown in recent years, and it is a potential area for the future. Because the pandemic terminated workplaces, established social distancing norms, promoted remote working, and demanded agility and resilience, there has been a surge in digital transformation and cloud computing played a critical part in this transformation. Many corporations have shifted their workloads to the cloud, according to Innovecs.com. Cloud computing is being used by more than 80 per cent of organisations. Experts predict that by 2024, this figure will have risen to more than 90 per cent (Paldesk, n.d.). The initial assessment through the data shows that cloud computing will be the future of the IT industry within the next few years. Software development, customer-facing web apps, data storage and processing, and other applications can all benefit from cloud services. Cloud computing benefits everyone from corporations to individuals who use Google Drive or Apple iCloud (EG, 2021). In addition, the incredible breakthrough of cloud computing has become possible thanks to quantum technology. Indeed, quantum technology has the potential to transform cloud computing by delivering outcomes that are far beyond the boundaries of traditional technology. Cloud computing has a bright future ahead of it that will affect everyone. Quantum computers allow mathematical calculations to be solved within seconds compared to more than 10000 years of modern supercomputers (Paldesk, n.d.). As part of the impending cloud computing development trend, all processing is done on the cloud and may be monitored by users without the need for specialised hardware. This is a significant step forward for users because they no longer need to invest in costly hardware. As the rapid digital transformation of the last two year has transformed the workplace environment and lifestyle, the post-pandemic world will rely on the cloud more than it used to. The trend for hybrid and multi-cloud strategies is also expected to play a significant role in the industry in the coming years. Many factors contribute to enterprises' increased embrace of multi-cloud, including flexibility and the ability to customise each cloud to their individual business purposes. Corporations may use multi-cloud strategy to disperse their workloads over several cloud environments to get the most profit possible while reducing risks associated with particular cloud environments. This value proposition simply warrants multi-cloud architecture systems' extensive expansion and adoption in the future. The private cloud environment developed on-site, which empowers enterprises with greater control, transparency, and visibility over IT resources, is a potential but pricey answer to these challenges (Piraino, n.d.). Multi-cloud architecture allows businesses to maintain a hybrid cloud environment that provides security and budget benefits in terms. The most secure workloads are retained in the private cloud, while typical corporate data and apps are operated on less expensive public cloud networks (Piraino, n.d.).
+Cloud computing has an impact on enterprises of all scales and industries, as well as government agencies. Many companies and government agencies that use Cloud Computing anticipate to save money in certain way. Cloud services are often used to achieve such a cost reduction. Flexibility and scalability are two more key motivations. Apart from flexibility and scalability, agility, innovation capacity, and mobility are usually cited. As a result of these effects, Cloud Computing is becoming more widely seen as a must for remaining competitive. Other cloud technology abilities can readily be added to the expertise of the present technology professional. In the future cloud-technology environment, workers will still need "soft" skills. In fact, others argue that in the cloud-technology era, these "soft" talents will be increasingly crucial (Wolters, 2019). This is simply due to the sheer number of individuals who would be affected by cloud computing. Convenience is particularly crucial from the consumer's standpoint, although privacy and security concerns are equally significant. Cloud Computing literally has an impact on consumer lifestyle and behaviour. The usage of cloud services, on the other hand, not only makes customers' life easier, but also makes people more reliant on digital. Furthermore, Cloud Computing is projected to lead to a blurring of the gap between work and personal life. Once companies are familiar with applying cloud computing into their work, most of the costs to keep the office running will be minimised and working in any environment employees prefer will promote work efficiency, hence working from home trend will gradually be more popular post-pandemic. This new potential area will create more opportunities in jobs for IT specialists.
+The application of Cloud Computing often occurs in our daily lives, but perhaps rarely, people notice. Even myself, after learning about this issue, I was surprised at the very familiar things in daily life that I still use. The application of cloud computing that is probably the most popular among everyone is social networking. No one can argue that these days social media do not affect the way of daily life. It's never been easier to stay in touch with family and friends, or find people with similar interests globally through social media. In any social networking application, they all use the cloud in one way or another. Cloud computing helps applications store user content, analyse and reduce costs associated with data backup and recovery in the event of an unexpected event. Probably my hobby is the same as that of many other young people, that is shopping online. They keep all of this data on the cloud and exploit it every time you login in. The majority of online stores use the cloud to keep information that makes future purchases easier for their consumers. They allow you to keep your credit card information and favourite products. In terms of system management, cloud computing allows them to manage their inventories more effectively. All this makes the customer's shopping experience much better and, in my perspective, online shopping is much more convenient, fast and less tiring than traditional shopping. Through a few examples of the many applications of cloud computing in our daily lives, it is undeniable that a lot of positive changes are taking place thanks to it. People are actually embracing cloud computing as a crucial component to access their own business and connect people to guarantee learning or employment continues, especially in times of epidemic.
+In conclusion, we can observe some major benefits, such as the ease with which data may be accessed from any Internet-enabled device. In addition, many cloud-based services, such as hosted apps, are used by consumers. Therefore, it is predicted that the development of cloud computing in the future will grow extremely strongly.
 
         </p>
-
-
         <h2>
-
+          References
         </h2>
-        
         <p>
+          Chai, W. (n.d.). TechTarget. Retrieved from cloud computing: https://searchcloudcomputing.techtarget.com/definition/cloud-computing
+EG, M. (2021, February 11). Analytics Insight. Retrieved from WHAT DOES THE FUTURE WITH CLOUD COMPUTING LOOK LIKE: https://www.analyticsinsight.net/what-does-the-future-with-cloud-computing-look-like/
+Paldesk. (n.d.). Paldesk. Retrieved from Future of Cloud Computing – What is Next: https://www.paldesk.com/future-of-cloud-computing-what-is-next/
+Piraino, A. (n.d.). Cloud Industry Forum. Retrieved from Five Reasons Why Multi-Cloud Infrastructure is the Future of Enterprise IT: https://www.cloudindustryforum.org/content/five-reasons-why-multi-cloud-infrastructure-future-enterprise-it
+Vennam, S. (2020, August 18). IDM. Retrieved from Cloud Computing: https://www.ibm.com/cloud/learn/cloud-computing
+Wolters, V. (2019, May 21). Perficient. Retrieved from Potential Impacts Beyond Cloud Applications & Infrastructure: https://blogs.perficient.com/2019/05/21/potential-impacts-cloud-technology/
 
-        </p>
+</p>
+      <h2>
+        Bui Anh Vy
+      </h2>
+      <h3>
+        ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+      </h3>
+      <p>
+        What’s the state of the AI and machine learning?
+Following the flow of the 4.0 revolution, artificial intelligence is increasingly popular and widely applied in all areas of life. It was first mentioned by John McCarthy – an American computer scientist in the 1950s, but today the term “AI” is really widely known and developed.
+AI was assumed to simulate human reasoning, giving the ability of a computer program to learn and think. Everything is AI if it involves a “program doing something that we would normally think would rely on the intelligence of a human”.
+Such a man-made anthropomorphic intelligence has been developed as simple rule-based systems, symbolic logical general AI and sub-symbolic statistical narrow AI. Such an AI is an automation technology that emulates human performance, typically by learning from it, to enhance existing applications and processes.
+The characteristic of AI technology is the computer’s “self-learning” ability, so it can judge and analyze new data in advance without human support, and at the same time has the ability to process data in very large quantities and at high speed. Currently, about 2.2 billion Gb of new data is created and received by companies such as Google, Twitter, Facebook, Amazon and etc to form “big data”.
+AI is capable of self-adapting, self-learning and self-development, making arguments to solve problems and being able to communicate like humans. Those are because AI is installed with a large database, programmed on that database and reprogrammed on the newly born database. Just like that, the structure of AI is always changing and adapting to new conditions and circumstances. AI is already present in many industries, from providing virtual shopping and online banking to reducing invesment costs in manufacturing and steamlining diagnostics in healthcare. AI has driven most industries forward and changed many people’s lives.
+Machine learning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicity programmed to do so. Machine learning algorithms use historical data as input to predict new output values. Machine learning important because it gives enterprises a view of trends in customer behaviour and business operational pattern, as well as supports the development of new products.
+There are four basic approaches:
+Supervised learning
+Unsupervised learning
+Semi-supervised learning
+Reinforcement learning
+What can be done now?
+AI is widely applied in many different fields in typical life such as:
+Business areas
+Education areas
+Financial areas
+Manufacturing areas
+Besides, AI is also applied in electronic devices:
+Tivi
+Smartphone
+Applications in audio devices.
+Same as AI, machine learning is applied in many industries such as:
+Healthcare
+Government
+Marketing and sales
+Transportation
+Financial service
+What is the potential impact of this development?
+AI can greatly improve workplace efficiency and enhance the work that humans can do. In addition, AI can replace humans in repetitive or dangerous jobs. In the banking sector, the application of AI technology can help banks improve market share, increase revenue, and at the same time add more experience for customers in the digital age. With technologies using AI can help people more convenient in work and life. For example, in the past, it took hours to wash clothes by hand, but now it is possible to use advanced equipment that can automatically wash clothes with the desired mode and save time. Within a day, a person can do a lot of things with the help of AI technology.
 
-        <h2>
+With this create, replace or make reduntant any current jobs or technologies?
+In the future, there will be many industries where employees will be replaced by machines. Occupations that require little creativity, or social skills, may be laborious and dangerous for workers will often be the first to be targeted for automation. The occupations that are most likely to be replaced by machines are:
+Taxi, bus truck driver
+Factory worker
+Cashier
+Telephone salesman
+Clerk
+Most of these professions are not necessary for skills such as creativity, social interaction, etc and there are also many mistakes that occur in the working process. In order to reduce errors and ensure safety, machines will replace humans in the future.
+In your daily life, how will this affect you?
+In today’s modern technology era, AI seems to have become a part of everyone’s daily life. Electronic devices using AI significantly affect people’s daily activities. One of the AI-powered gadgets that most people around the world use are smartphones. AI is applied in software on phones, from facial recognition software for unlocking to popular applications like Google Maps. The phone is indispensable item for people today because thanks to it, we can communicate with each other anywhere, search the information we want to know or store personal information and important documents. Therefore, more and more companies like Apple and Google are trying to apply AI technology on handheld devices. AI is also used in social networks. Social networking is also a place that people access everyday to make friends from different countries or know more about recent events. AI can help users from social media promotional posts to how friends can be automatically tagged in photos. It can even help remove inappropriate contents from social networks.
+As someone who was born in an age of great technology, I can almost adapt to changes. Technologies are developing day by day and people’s imagination about those technology is also very diverse. For myself, I can not really feel the difference in my daily life or difficult access to modern technologies, I can only notice the difference in the characteristics of each product in each companies.
+</p>
+          <h2> Pham Viet Ha</h2>
+          <h3>
+            AUTOMONOUS VEHICLES
+          </h3>
+          <p>
+            Autonomous vehicles have been in the popularities over the past few years. Everyone knows of a car, most people already have a car, and currently, the next best thing from the manually driven car is a self-driving car or autonomous vehicles.
+An autonomous vehicle is a vehicle that is capable of detecting its’ surroundings and make judgements with or without human inputs depending on the level of automations. The autonomy in vehicles is categorized in six different levels based on the system of the Society of Automotive Engineers (SAE). The 6 levels are:
+•	Level 0: no automation
+•	Level 1: shared control – driver assistance
+•	Level 2: hands off – partial automation
+•	Level 3: eyes off – conditional automation
+•	Level 4: mind off – high automation
+•	Level 5: full automation
+As of right now, the highest level achieved has only been level 3 by Honda, while most of the market for autonomous vehicles is heavily weighed by level 1 and 2 autonomy vehicles. The most well-known companies to have these autonomous vehicles are Tesla, AGV, Waymo, Zoox… The idea of an autonomous vehicle is only available to a few selected countries like the USA, China, …
+In a few years, about 3-4 years, self-driving cars will be available to almost all countries and level 4 and 5 autonomy will also be available making transportation easier for a lot of people.
+Technology
+Radar
+Radar is used in autonomous vehicles as a close-range detection that detects everything in close proximity to the car, this is used with the camera to also let add in human decision into the driving of the car.
+Lidar
+Lidar is used to help the car envision what surrounds it by projecting almost exactly its’ surrounding into a 3D space. This is used to detect longer range and usually in front (180 degree) but can also be all directions, but it will cost a lot more.
+Ultrasound
+Ultrasound is a very far range detection that will aid in the autonomy’s decision-making ability.
+Artificial Intelligence
+All the above technologies’ information will be used by the AI of the autonomy and make driving decisions. The level of this AI will determine how high it ranks on the SEA + many more factors like emotional-AI, vehicles communication.
+Impact
+If in the future, autonomous vehicle is normalized and everyone has it, transportation will be much safer, cheaper and less infrastructure is needed like gas station because most of them runs by electricity and also energy conservation. If the concern is about waste coming from all the old vehicles, then I think that since they are mostly made out of metals and recyclables, you can turn it into an autonomous vehicle with a bit of charge or even free.
+When that happens, roads will be much safer, people will be able to get some rests while getting to places which reduces accidents.
+Some jobs will be ruled out by this:
+Shipping & Deliveries
+Although no driver will longer be needed, there’s the threat of vandalism of the vehicle itself, which still needs a human to prevent that.
+Public Transportation
+Bus, Trains, Trams, Taxis, … will be driverless and people can call up a taxi whenever they want, and a car will be sent to their place.
+Again, security is always in the mix.
+Emergency Transportation
+Since every vehicle is automated, then an emergency vehicle (like an ambulance) can send signals to all the cars to give way to it. Making emergency much smoother and virtually no down time for emergency.
+How will this affect me?
+I am a night person, for work only. If I want anything work related done, it is going to be late at night, or even 3-4 AM in the morning. That’s why lately I have cut off this time to get a good enough sleep for the next day at university or at work.
+With the help of autonomous vehicles, I can continue to work late, and, in the morning, I can get some rest on the car while it takes me to wherever I want.
+My family doesn’t all go out at the same time, meaning we can’t just all jump on a car a get to all the places one by one. With this, one person can go to one place and the car would automatically go back to take the next person.
+</p>
+          <h2> Lam Nhi Khang</h2>
+          <h3>CYBERSECURITY AND PRIVACY</h3>
+          <p>
+            1) Benefits and Situations of Cybersecurity and Privacy
+Currently, the world is developing at an amazing speed, in which information technology in general and the internet space in particular are the most strongly developed. In almost all other professions and aspects of life today, we all have a certain dependence on information networks, communication and digital technology. It is no exaggeration to say that cyberspace is now the center of the global information and communication network. Because it is so popular and easily accessible by any individual or organization, cyberspace has become a good prey for digital crimes. In addition, cyberspace is gradually becoming a living environment for everyone, so there should be provisions to protect users. This is the reason why more and more people are involved in development and investment in cybersecurity and user privacy. For the development of individuals or companies, ensuring security and privacy in the cyber environment will create the most favorable development environment, avoiding potential attacks  from hackers, or those who want to create an unhealthy space to perform illegal activities. In addition, the right to privacy is also a very basic human right, whether in real life or in cyberspace, all must be kept safe. Cybersecurity and privacy can absolutely help improve all of the above.
+Cybersecurity and privacy are not so new fields today, but they are always a hot field with continuous improvements and innovations in technology. The online world is constantly evolving and changing, so cybersecurity and privacy policies and technologies must always be updated and changed. The problems of security holes and hacker attacks are always happening. Therefore, the security software authenticates, the privacy policy is always upgraded. To illustrate, network security tools such as Kaspersky AntiVirrus, Malwarebytes are constantly being updated and renewed to ensure effectiveness. The cybersecurity industry is also building a network of white hat hackers through competitions such as Hackathon and Bugcrowd to join together to find security holes that threaten cyber security, thereby helping to patch the, and limit damage quickly. Besides, the security policies on user privacy are also updated and supplemented continuously. A typical example is the case of Apple, since the iOS 14 update, applications must have the consent of the user to be able to set cookies or automatically access deeper into their system. In the near future, with the development and increasing interest of the technology community, we can see a lot of promise in terms of sustainability in the field of security and privacy. According to many experts' predictions, by 2023, modern privacy laws will cover the personal information of 75% of the world's population, and many privacy policies will be passed with many of them using the General Data Protection Regulation (GDPR) as a basis (Kasey Panetta, 2021). By 2024, 30% of enterprises will adopt Secure Web Gateway (SWG), Security Cloud Access Broker (CASB), Untrusted Network Access (ZTNA) and Firewall as a Service (FWaaS) is offered by the same vendor, and as a result, many are optimistically predicting that organizations adopting a cybersecurity grid architecture will reduce the financial impact of security incidents by an average of 90% (Kasey Panetta, 2021). In addition, not only Vietnam but also countries around the world are both inquiring and collaborating together to discuss and further improve privacy policies in cyberspace, promising to bring a Global policy that is closely linked, durable and difficult to exploit. In addition, with the continuous improvement, upgrade and patching of the global data management system, in the future we can limit cyber attacks and keep them to a minimum.
 
-        </h2>
-    </div>
+2) Impact of Cybersecurity and Privacy
+As discussed above, cybersecurity and privacy is an extremely important and prominent area in today's strong development of cyberspace. If it continues to receive the right attention and development, this field has the potential to have an extremely profound impact on the future development of the digital world. Those who are positively impacted are not only individuals operating in cyberspace but also social movements, businesses and organizations globally.
+Currently, we can easily see that almost all activities and careers in life have the impact of the internet and this will certainly be higher in the future. Being able to improve security in cyberspace against attacks that come directly or through malicious code creates a healthy operating environment for everyone. With security guaranteed, everything will be operated easily and properly, creating momentum for development in all other areas from healthcare, education, business operations, public affairs. social, etc. On the other hand, privacy will have an impact on the operating policies of organizations to ensure user privacy. Service users will be the biggest beneficiaries. They will feel more secure and protected by those policies when using the services of those companies and organizations. If there is any violation, the privacy policy will ensure fairness for the victim, all rights will be preserved.
+With the combination of both cyber security and privacy, in addition to ensuring cyber security, they are also expected to contribute to reducing the rate of damage caused by cybercrime because in order to ensure With these policies in place, organizations will certainly invest more heavily in the security of their company's data management systems, creating a good enough defense against hackers. Maybe the number of attacks will still happen and even increase, but at least the damage will be reduced to some extent.
+In another aspect, the growth of cybersecurity and privacy can also create more jobs and profits for technology companies. Even today, the number of programmers in the security field has been increasing day by day. Thereby, in the future, the development of cyberspace will be increasingly replicated, requiring an increased resource of programmers.
 
-    <div class="copyright">
-        <p>
-            © Copyright 2021 Changrett Hel1um. All rights reserved.
-        </p>
-    </div>
-</body>
+3) Impact on myself
+I was exposed to technology activities quite early, especially trading and trading services. If the field of network security and privacy gets more attention and development, I will feel more comfortable and secure from the perspective of a user. I currently use a lot of online services as well as shop online a lot. The security of my personal information such as my bank account, phone number, email address will give me more confidence in handling transactions and continuing to use them in the future. In the past, when I heard about the risk of security information leakage, I also felt quite worried, that's why I often advise my family to use internet services less because they are not familiar with technology, and they are also not confident enough to be able to use them. If they need to do something, I usually do it for them. But if the security is good enough, I think my family can be more secure and no longer feel insecure as before. In addition, if the policies are good enough, my family and I can have more confidence to continue using more utilities and services in cyberspace.
+</p>
 </html>
