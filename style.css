@@ -13,10 +13,6 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-
-    height: 100vh;
-    
-    width: 100vw;
 }
 
 a{
@@ -36,7 +32,6 @@ nav{
     padding-bottom: 0;
     background: rgb(34,195,169);
     background: linear-gradient(153deg, rgba(34,195,169,1) 63%, rgba(45,253,128,1) 100%);
-    /* border-radius: 900px; */
 }
 
 nav a{
@@ -45,6 +40,7 @@ nav a{
     text-transform: uppercase;
     color: #1c523d;
     display: flex;
+
 }
 
 .logoteam{
@@ -57,6 +53,7 @@ nav a{
 nav ul{
     display: flex;
     gap: 10em;
+    
 }
 
 .logostyle{
@@ -128,40 +125,46 @@ nav ul{
  }
 
 .Mainpage{
-    /* background: #0A3D35; */
-    margin-left: 7%;
-    margin-right: 7%;
-    padding: 200px 100px;
-    margin-top: 50px;    
-    /* border-radius: 20px; */
-}
-
-.Mainpage .GDrive_image{
-    margin-right: 250px;
-    margin-top: 100px ;
-    width: 200px;
-    height: 200px;
-    float: right;
-    display: flex;
-    padding: 0;
-    shape-margin: 1rem;
-    -webkit-filter: drop-shadow(12px 5px 5px #222);
-    filter: drop-shadow(12px 5px 5px #222);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    position: relative;
+    display: inline-block;
 }
 
 .Mainpage h1{
-    color:  #18c066;
-    font-weight: 800;
-    font-size: 50px;
-}
-.Mainpage h2{
-    color: #030303;
-    font-size: 20px;
+    color: turquoise;
+    font-weight: 900;
+    text-align: center;
 }
 
+.Mainpage h2{
+    color: #d61f1f;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    width: 60%;
+}
+
+.background_image {
+    opacity: 0.3;
+    max-width: 100%;
+    max-height: 100%;
+    z-index: -1;
+    border-radius: 40px;
+
+}
+
+
+
 .GroupProfile1 {
-    background: rgb(252,207,121);
-    background: linear-gradient(153deg, rgba(252,207,121,1) 0%, rgba(242,207,142,1) 28%, rgba(252,252,252,1) 60%);
+    margin-top: 30px;
+    background: rgb(240, 189, 95);
+    background: linear-gradient(153deg, rgb(245, 183, 69) 0%, rgba(242,207,142,1) 28%, rgba(252,252,252,1) 60%);
     text-align: center;
     align-items: center;
     padding: 20px;
@@ -172,32 +175,79 @@ nav ul{
 }
 
 .GroupProfile1 h1{
-    color: #f9f0de;
+    color: #c29d53;
     text-align: left;
 }
 
+.block_1{
+    margin-top: 70px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    width: 1065px; 
+    height:1px; 
+    background: rgb(0, 0, 0);
+}
+
+.block_2{
+    margin-top: 70px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    width: 1065px; 
+    height:1px; 
+    background: rgb(0, 0, 0);
+}
+
 .GroupProfile1 h2{
-    color: #beab84;
+    color: #8f691e;
     text-align: left;
 }
 
 .GroupProfile1 p{
-    color: #96896b;
+    color: #5a471c;
     text-align: justify;
 }
 
 .GroupProfile2 {
-    background: #0c685a;
     margin-left: 10%;
     margin-right: 10%;
     padding: 20px;
     margin-top: 50px;
     border-radius: 20px;
+    text-align: center;
+    text-transform: uppercase;
 }
 
+
 .GroupProfile2 p{
-    color: #96896b;
+    color: #3b2b04;
     text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.result_image img{
+    margin-top: 60px;
+    width: 300px;
+    height: auto;
+    z-index: -1;
+    display: inline;
+    float: left;
+}
+
+.result_image2 img{
+    width: 600px;
+    height: auto;
+    display: inline;
+    float: right;
+    
+}
+
+.result_image3 img{
+    width: 700px;
+    height: auto;
+    display: inline;
 }
 
 .copyright {
@@ -207,24 +257,55 @@ nav ul{
     margin-top: 5px;
     text-align: center;
 }
+
+.Interview{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+}
+
+.Interview h1{
+    color: #ceb07d;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 2px 5px 2px rgb(177, 37, 21);
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.Interview h2{
+    color: #d69d2b;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.Interview p{
+    color: #96896b;
+    text-align: justify;
+}
+
 .Project{
     margin-left: 10%;
     margin-right: 10%;
     padding: 20px;
-    margin-top: 50px;
 }
 
 .Project h1{
     color: #d69d2b;
-    text-align: left;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 2px 2px 2px rgb(177, 37, 21);
+    font-weight: bold;
 }
 
 .Project h2{
     color: #d69d2b;
     text-align: left;
+    margin-top: 20px;
 }
 
 .Project h3{
+    margin-top: 10px;
     color: #d69d2b;
     text-align: left;
 }
@@ -233,5 +314,37 @@ nav ul{
     color: #96896b;
     text-align: justify;
 }
+
+.IT_Technologies{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+}
+
+.IT_Technologies h1{
+    color: #C4C08D;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 2px 5px 2px rgb(110, 1, 74);
+    font-weight: bold;
+}
+
+.IT_Technologies h2{
+    color: #9c9225;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.IT_Technologies h3{
+    margin-top: 10px;
+    color: #8DC43F;
+    text-align: left;
+}
+
+.IT_Technologies p{
+    color: #5E5C44;
+    text-align: justify;
+}
+
 
 
