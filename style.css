@@ -43,6 +43,7 @@ nav a{
 
 }
 
+/* Logo team */
 .logoteam{
     margin-left: 3%;
     display: flex;
@@ -69,8 +70,8 @@ nav ul{
  .dropdown {
    float: left;
    overflow: hidden;
-   /* display: flex; */
  }
+
 /* dropdown button*/
  .dropdown .dropdown_button {
     border: none;
@@ -86,6 +87,7 @@ nav ul{
     display: flex;
  }
 
+ /* gradient colour movement at hover  */
  .navbar a:hover, .dropdown:hover .dropdown_button {
     background: linear-gradient(to right, rgb(156,242,208),rgb(84, 142, 190), rgb(37, 104, 204));
     background-size: 3000% 3000%;
@@ -97,6 +99,7 @@ nav ul{
     border-radius: 30px;
  }
 
+  /* List of group members*/
  .Members {
    display: none;
    position: absolute;
@@ -124,6 +127,7 @@ nav ul{
    display: block;
  }
 
+  /* Set up mainpage */
 .Mainpage{
     margin-left: 10%;
     margin-right: 10%;
@@ -150,6 +154,7 @@ nav ul{
     width: 60%;
 }
 
+ /* Background image at mainpage */
 .background_image {
     opacity: 0.3;
     max-width: 100%;
@@ -159,8 +164,7 @@ nav ul{
 
 }
 
-
-
+ /* Design content in Group Profile page */
 .GroupProfile1 {
     margin-top: 30px;
     background: rgb(240, 189, 95);
@@ -250,6 +254,7 @@ nav ul{
     display: inline;
 }
 
+ /* Copyright at the footer of each page */
 .copyright {
     margin-left: 5%;
     margin-right: 5%;
@@ -258,6 +263,7 @@ nav ul{
     text-align: center;
 }
 
+/* Interview page */
 .Interview{
     margin-left: 10%;
     margin-right: 10%;
@@ -290,6 +296,7 @@ nav ul{
     padding: 20px;
 }
 
+ /* Project page  */
 .Project h1{
     color: #d69d2b;
     text-align: center;
@@ -315,6 +322,7 @@ nav ul{
     text-align: justify;
 }
 
+ /* IT Technologies page  */
 .IT_Technologies{
     margin-left: 10%;
     margin-right: 10%;
